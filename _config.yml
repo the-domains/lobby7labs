@@ -1,0 +1,14 @@
+layout_spectrum: 0.8170514493249357
+typography_spectrum: 0.5513846073299646
+color:
+  brandStrength: 0.5402455262374133
+  lightness: 0.6325031709857285
+  saturation: 0.9805731943342835
+  rhythmicContrast: 0.676257076440379
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: lobby7labs
